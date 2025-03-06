@@ -34,3 +34,5 @@
 13. Setter Method is used to set the value for the interface ref variable to achieve loosely coupling.
 14. We can also use construtor method to injecting one class object into another class .
 15. In Test.java class creating billcollector.class object and injecting dependent object using setter or constructor method and call interface pay method.
+    
+16. Performing Field injection using reflection class to access private variable outside the class and injecting dependent obj into target class.
